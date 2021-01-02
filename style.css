@@ -1,0 +1,12 @@
+label{
+    margin-left: 600;
+    font-size: xx-large;
+    color: rgb(0, 255, 42);
+}
+
+button{
+    background-color: initial;
+    font-size: 20;
+    color: blue;
+    font-weight: bold;
+}
